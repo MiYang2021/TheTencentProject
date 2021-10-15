@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E4DF59C2-40BA-D3D2-ED98-9FADD3E20BA6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TheTencentProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
